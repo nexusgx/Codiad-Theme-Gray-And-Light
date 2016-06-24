@@ -41,6 +41,7 @@
 
 .settings-view .config-menu .active {
     background-color: rgb(60, 118, 221);
+	color:#fff;
 }
 
 .settings-view .panels {

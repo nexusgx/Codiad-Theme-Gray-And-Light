@@ -4,4 +4,4 @@ Download as ZIP and unzip folder into the themes folder of your Codiad installat
 
 Get Codiad at https://github.com/Codiad/Codiad
 
-![Preview](preview.png "preview")
+![Preview](screen.png "preview")
